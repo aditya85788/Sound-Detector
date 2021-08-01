@@ -26,3 +26,7 @@ which acts as comparator.
 • Darlington Pair Transistors
 • Piezo Buzzer and LED
 • Other passive components like Resistors, Varistors ,Capacitors and a Battery Source
+
+# Useful References
+How to add Microphone in Proetus?
+https://www.etechnophiles.com/how-to-add-microphone-library-to-proteus-in-2018/
