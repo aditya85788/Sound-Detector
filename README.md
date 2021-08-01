@@ -18,6 +18,7 @@ LED Glows at the end of operations.
 The buzzer should be kept at place where people can hear, and the sensor should be kept 
 at places that require continuous monitoring. To prevent noises from AC mains, battery 
 supplies should be used.
+
 Circuit Implementation Basically requires following major components:
 • Condenser Microphone
 • Two LM741 IC forming two individual circuits one for amplification and the other 
