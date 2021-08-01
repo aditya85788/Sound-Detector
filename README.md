@@ -36,3 +36,7 @@ Circuit Implementation Basically requires following major components:
 How to add Microphone in Proetus?
 
 https://www.etechnophiles.com/how-to-add-microphone-library-to-proteus-in-2018/
+
+Circuit Diagram and other details
+
+https://bestengineeringprojects.com/sound-detector-circuit-using-op-amp-741/
