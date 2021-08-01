@@ -20,13 +20,19 @@ at places that require continuous monitoring. To prevent noises from AC mains, b
 supplies should be used.
 
 Circuit Implementation Basically requires following major components:
+
 • Condenser Microphone
-• Two LM741 IC forming two individual circuits one for amplification and the other 
-which acts as comparator.
+
+• Two LM741 IC forming two individual circuits one for amplification and the other which acts as comparator.
+
 • Darlington Pair Transistors
+
 • Piezo Buzzer and LED
+
 • Other passive components like Resistors, Varistors ,Capacitors and a Battery Source
+
 
 # Useful References
 How to add Microphone in Proetus?
+
 https://www.etechnophiles.com/how-to-add-microphone-library-to-proteus-in-2018/
